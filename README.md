@@ -19,7 +19,7 @@ Below are highlights of the level design and custom hazards.
 
 ### Environmental Details
 * ![Rubble Detail](documentation/rubble-detail-shot.jpg)
-* ![Checkerboard Floor](documentation/checkerboard-floor-texture.jpg)
+* ![Checkerboard Floor](documentation/jason-titles.jpg)
 
 ### Mechanics & Hazards
 * ![Obstacle Cage](documentation/obstacle-cage-mechanic.jpg)
